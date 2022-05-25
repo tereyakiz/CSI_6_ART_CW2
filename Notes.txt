@@ -1,0 +1,31 @@
+Requirements
+
+Check Ubuntu version, python3 version, & update by running commands:
+1) sudo apt update
+2) python3 --version
+3) sudo apt install -y python3-opencv
+#Open python shell
+4) python3
+#Check to see if OpenCV installed correctly, if no errors means it has installed correctly
+5) import cv2
+#Check OpenCV version
+6) cv2.version
+
+Install latest version of OpenCV:
+1) sudo apt update 
+2) sudo apt install -y python3-pip
+#Check pip version
+3) pip3 --version
+#Install the package
+4) pip3 install opencv-python
+
+
+
+
+
+
+
+
+
+data of cars downloaded from :
+https://www.kaggle.com/brsdincer/vehicle-detection-image-set
